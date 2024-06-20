@@ -1,12 +1,6 @@
-- 👋 Hi, I’m Sardar Hussnain
-- 👀 I’m interested in Book Reading,cricket,basketball and computers.
-- 🌱 I’m currently learning backend development in a training session by @Falcon Xoft
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
- Facebook : https://www.facebook.com/profile.php?id=100092404347852
- Instagram : https://www.instagram.com/sardar_hussnain1981/
- LinkedIn : https://www.linkedin.com/in/sardar-hussnain-268022240/
-<!---
-HussnainSardar1981/HussnainSardar1981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I am Sardar Hussnai. 
+I am like Digital Chef, using Django and Python as my secret ingredients to cook up websites, with HTML and CSS adding the finishing touches.
+You can reach me via:
+Fiverr : https://www.fiverr.com/hussnain1981?up_rollout=true
+Linkedin : www.linkedin.com/in/sardar-hussnain-268022240
+Upwork : https://www.upwork.com/freelancers/~01e278234731347daf?mp_source=share
