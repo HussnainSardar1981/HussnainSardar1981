@@ -1,4 +1,4 @@
-Hi! I am _Sardar Hussnain_.
+Hi! I am _Sardar Hussnain_. **Python | Django Full Stack Developer**
 
 _I am like Digital Chef, using Django and Python as my secret ingredients to cook up websites, with HTML and CSS adding the finishing touches._
 
