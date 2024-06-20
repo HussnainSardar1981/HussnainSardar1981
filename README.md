@@ -2,7 +2,7 @@ Hi! I am _Sardar Hussnain_.
 
 **Python | Django Full Stack Web Developer**
 
-**Mixing Django beats with Python melodies like a DJ**
+_Mixing Django beats with Python melodies like a DJ_
 
 You can reach me via:
 
