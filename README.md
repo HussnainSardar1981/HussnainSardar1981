@@ -4,7 +4,9 @@ Hi! I am _Sardar Hussnain_.
 
 _Mixing Django beats with Python melodies like a DJ_
 
-I am passionate about crafting dynamic web applications and solving complex problems with elegant code. Feel free to connect with me on your favorite platform:
+I am passionate about crafting dynamic web applications and solving complex problems with elegant code. 
+
+Feel free to connect with me on your favorite platform:
 
 **[Fiverr](https://www.fiverr.com/hussnain1981?up_rollout=true)**
 
