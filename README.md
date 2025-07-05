@@ -6,7 +6,7 @@ Check out my live demo projects below and let's start building your next AI tool
 
 Feel free to connect with me on your favorite platform:
 
-**[Fiverr]([https://www.fiverr.com/hussnain1981?up_rollout=true](https://www.fiverr.com/s/DB6R167))**
+**[Fiverr](https://www.fiverr.com/s/DB6R167)**
 
 **[LinkedIn](https://www.linkedin.com/in/sardar-hussnain-268022240)**
 
