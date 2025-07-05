@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hussnain Sardar  
+# 👋 Hi, I'm Sardar Hussnain 
 ### 💼 Full-Stack AI Developer | React ⚛️ • Django/DRF 🛠️ • GPT-Powered Agents 🤖
 
 I build **AI-enhanced tools and full-stack platforms** that merge seamless UX with intelligent automation.  
