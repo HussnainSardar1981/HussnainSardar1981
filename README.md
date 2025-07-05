@@ -1,14 +1,12 @@
-Hi! I am _Sardar Hussnain_.
+# 👋 Hi, I'm Hussnain Sardar
+**Full-Stack AI Developer** • React ⚛️ + Django/DRF 🛠️ • GPT‑Powered Agents 🤖
 
-**Python | Django Full Stack Web Developer**
-
-_Mixing Django beats with Python melodies like a DJ_
-
-I am passionate about crafting dynamic web applications and solving complex problems with elegant code. 
+I build **AI-enhanced web apps & agentic tools**—from Canva-style editors to PDF chatbots.  
+Check out my live demo projects below and let's start building your next AI tool.
 
 Feel free to connect with me on your favorite platform:
 
-**[Fiverr](https://www.fiverr.com/hussnain1981?up_rollout=true)**
+**[Fiverr]([https://www.fiverr.com/hussnain1981?up_rollout=true](https://www.fiverr.com/s/DB6R167))**
 
 **[LinkedIn](https://www.linkedin.com/in/sardar-hussnain-268022240)**
 
