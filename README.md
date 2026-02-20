@@ -40,7 +40,7 @@ Agent-based workflow platform with multiple tools and memory
 
 ## 💼 Hire Me
 
-📎 Fiverr: [Click to Hire Me](https://www.fiverr.com/s/DB6R167)  
+📎 Fiverr: [Click to Hire Me](https://www.fiverr.com/sellers/hussnainsardar3/)  
 📎 Upwork: [View Services](https://www.upwork.com/freelancers/~01fd7f8bcb6e4ddf48?mp_source=share)  
 🔗 LinkedIn: [View Profile](https://www.linkedin.com/in/sardar-hussnain-268022240)
 
