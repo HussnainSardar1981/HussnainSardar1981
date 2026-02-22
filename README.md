@@ -21,7 +21,7 @@ I build production AI systems for SaaS and service businesses. My work focuses o
 
 **AI Voice Agent for MSP IT Support** — Production voice agent handling real client support calls over SIP/PJSIP for a managed security services provider. Verifies caller identity via MS365 OAuth and SMS OTP, triages issues using RAG-grounded client knowledge, creates ITSM tickets, and escalates to technicians with DTMF-based on-call rotation. Built with Asterisk AudioSocket, Vosk/Whisper ASR, Kokoro TTS, Ollama, ChromaDB, and Redis. 14K+ lines of Python in production.
 
-**Inmate Insights — SaaS Platform** — Public criminal justice records search and retrieval platform built for the U.S. corrections system. Features real-time inmate search via server-side scraping, Stripe-integrated checkout with tiered access, OAuth authentication, and blurred record previews as a conversion funnel. Built with React 18, TypeScript, Express 5, Supabase, and Stripe, deployed as Vercel serverless functions with row-level security and Edge Functions.
+**Inmate Insights** — Public criminal justice records search and retrieval platform built for the U.S. corrections system. Features real-time inmate search via server-side scraping, Stripe-integrated checkout with tiered access, OAuth authentication, and blurred record previews as a conversion funnel. Built with React 18, TypeScript, Express 5, Supabase, and Stripe, deployed as Vercel serverless functions with row-level security and Edge Functions.
 
 **AskCoachJoe.ai** — AI business coaching platform for small business founders with GPT-4 powered conversational sessions, RAG-based knowledge retrieval, and full session history tracking. Built with Django, Next.js, PostgreSQL, and Pinecone.
 
